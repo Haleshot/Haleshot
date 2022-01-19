@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building apps, game development.
 - 📫 How to reach me:
 Socials - 
-https://www.twitter/haleshot, LinkedIn - https://www.linkedin.com/in/srihari-thyagarajan/, Discord - Haleshot#9487
+https://twitter.com/haleshot, LinkedIn - https://www.linkedin.com/in/srihari-thyagarajan/, Discord - Haleshot#9487
 
 <!---
 LeoTeo2828/LeoTeo2828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
