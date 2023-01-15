@@ -3,13 +3,14 @@
 - 🌱 I’m currently learning C++, Python and MYSQL.
 - 💞️ I’m looking to collaborate on building apps, game development.
 - 📫 How to reach me:
-Socials - 
 
-https://twitter.com/haleshot, 
+- Socials:
 
-LinkedIn - https://www.linkedin.com/in/srihari-thyagarajan/, 
+  https://twitter.com/haleshot
 
-Discord - Haleshot#9487
+  LinkedIn - https://www.linkedin.com/in/srihari-thyagarajan/
+
+  Discord - Haleshot#9487
 
 <!---
 LeoTeo2828/LeoTeo2828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
