@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on building apps, game development.
 - 📫 How to reach me:
 
-- Socials:
 
   https://twitter.com/haleshot
 
