@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<> Old README Format:
 <!---
 - 👋 Hi, I’m Haleshot!
 - 👀 I’m interested in Artificial Intelligence, Deep Learning, Neural Networks Machine Learning and Internet of Things!
@@ -11,9 +25,4 @@
   LinkedIn - https://www.linkedin.com/in/srihari-thyagarajan/
 
   Discord - Haleshot#9487
---->
-
-<!---
-LeoTeo2828/LeoTeo2828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
