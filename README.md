@@ -11,7 +11,7 @@
 
 
 
-<> Old README Format:
+// Old README Format:
 <!---
 - 👋 Hi, I’m Haleshot!
 - 👀 I’m interested in Artificial Intelligence, Deep Learning, Neural Networks Machine Learning and Internet of Things!
