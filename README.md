@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm a sophomore studying B Tech Artificial Intelligence. I like coding and projects relating to ML/AI, DL, CV, NLP etcc<br>Hi, I’m Haleshot!<br><br>I’m interested in Artificial Intelligence, Deep Learning, Neural Networks Machine Learning and Internet of Things!<br><br>I’m currently learning C++, Python and MYSQL.<br><br>I’m looking to collaborate on building apps, game development.<br><br>
+I'm a sophomore studying B Tech Artificial Intelligence. I like coding and projects relating to ML/AI, DL, CV, NLP etc.<br>Hi, I’m Haleshot!<br><br>I’m interested in Artificial Intelligence, Deep Learning, Neural Networks Machine Learning and Internet of Things!<br><br>I’m currently learning C++, Python and MYSQL.<br><br>I’m looking to collaborate on building apps, game development.<br><br>
 
 
 ## 🌐 Socials:
