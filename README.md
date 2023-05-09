@@ -19,7 +19,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ### Editors/IDEs:
-https://camo.githubusercontent.com/c05a246fa2e1f60805ece5c251f8aab6f0cc4bfe520a9722fbb3d076f9307929/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476f6f676c652b436f6c616226636f6c6f723d323232323232266c6f676f3d476f6f676c652b436f6c6162266c6f676f436f6c6f723d463941423030266c6162656c3d
+![Google_Colab](https://camo.githubusercontent.com/c05a246fa2e1f60805ece5c251f8aab6f0cc4bfe520a9722fbb3d076f9307929/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476f6f676c652b436f6c616226636f6c6f723d323232323232266c6f676f3d476f6f676c652b436f6c6162266c6f676f436f6c6f723d463941423030266c6162656c3d)
 ![Google_Colab](https://img.shields.io/badge/Google_Colab-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
