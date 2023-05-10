@@ -36,7 +36,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Haleshot&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=Haleshot&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> --->
+[![Haleshot's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Haleshot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Haleshot/github-readme-stats#gh-dark-mode-only)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Haleshot&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haleshot&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
