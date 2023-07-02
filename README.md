@@ -40,13 +40,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-<p align="center">
-  
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Haleshot&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Haleshot&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haleshot&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haleshot&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
