@@ -58,7 +58,7 @@
    <h1>Projects </h1>
   
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Image_Processing&theme=tokyonight" width="40%" height="90%"/>](https://github.com/Haleshot/Image_Processing)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Flight_Booking_System&theme=tokyonight" width="46%" height="97%"/>](https://github.com/Haleshot/Flight_Booking_System)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Flight_Booking_System&theme=radical" width="46%" height="97%"/>](https://github.com/Haleshot/Flight_Booking_System)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=AI-ML&theme=react" width="46%" height="97%"/>](https://github.com/Haleshot/AI-ML)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Projects&theme=react" width="40%" height="95%"/>](https://github.com/Haleshot/Projects)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Competitive-Programming&theme=radical" width="46%" height="97%"/>](https://github.com/Haleshot/Competitive-Programming)
