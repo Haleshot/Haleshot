@@ -57,12 +57,12 @@
 <div align="center">
    <h1>Projects </h1>
   
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Image_Processing&theme=tokyonight" width="46%" height="56%"/>](https://github.com/Haleshot/Image_Processing)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Flight_Booking_System&theme=radical" width="49%" height="97%"/>](https://github.com/Haleshot/Flight_Booking_System)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=AI-ML&theme=react" width="46%" height="56%"/>](https://github.com/Haleshot/AI-ML)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Projects&theme=react" width="49%" height="97%"/>](https://github.com/Haleshot/Projects)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Competitive-Programming&theme=radical" width="46%" height="56%"/>](https://github.com/Haleshot/Competitive-Programming)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=OS-Programs&theme=radical" width="49%" height="97%"/>](https://github.com/Haleshot/OS-Programs)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Image_Processing&theme=chartreuse-dark" width="46%" height="56%"/>](https://github.com/Haleshot/Image_Processing)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Flight_Booking_System&theme=chartreuse-dark" width="49%" height="97%"/>](https://github.com/Haleshot/Flight_Booking_System)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=AI-ML&theme=chartreuse-dark" width="46%" height="56%"/>](https://github.com/Haleshot/AI-ML)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Projects&theme=chartreuse-dark" width="49%" height="97%"/>](https://github.com/Haleshot/Projects)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Competitive-Programming&theme=chartreuse-dark" width="46%" height="56%"/>](https://github.com/Haleshot/Competitive-Programming)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=OS-Programs&theme=chartreuse-dark" width="49%" height="57%"/>](https://github.com/Haleshot/OS-Programs)
 
 </div>
 
