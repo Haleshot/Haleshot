@@ -49,9 +49,22 @@
 </p>
 
 
-
+<!---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Haleshot&limit=5&theme=radical&combine_all_yearly_contributions=true)
+--->
+
+<div align="center">
+   <h1>Projects </h1>
+  
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Image_Processing&theme=tokyonight" width="40%" height="90%"/>](https://github.com/Haleshot/Image_Processing)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Flight_Booking_System&theme=tokyonight" width="46%" height="97%"/>](https://github.com/Haleshot/Flight_Booking_System)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=AI-ML&theme=react" width="46%" height="97%"/>](https://github.com/Haleshot/AI-ML)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Projects&theme=react" width="40%" height="95%"/>](https://github.com/Haleshot/Projects)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Competitive-Programming&theme=radical" width="46%" height="97%"/>](https://github.com/Haleshot/Competitive-Programming)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=OS-Programs&theme=radical" width="40%" height="95%"/>](https://github.com/Haleshot/OS-Programs)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Haleshot&icon=0&color=12)](https://visitcount.itsvg.in)
