@@ -63,7 +63,6 @@
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Projects&theme=chartreuse-dark" width="46%" height="97%"/>](https://github.com/Haleshot/Projects)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=Competitive-Programming&theme=chartreuse-dark" width="46%" height="97%"/>](https://github.com/Haleshot/Competitive-Programming)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haleshot&repo=OS-Programs&theme=chartreuse-dark" width="46%" height="56%"/>](https://github.com/Haleshot/OS-Programs)
-
 </div>
 
 ---
