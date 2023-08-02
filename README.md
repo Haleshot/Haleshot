@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>Hi, I’m Haleshot, a sophomore studying B Tech Artificial Intelligence. I like coding and projects relating to ML, AI, DL, CV, NLP, Image Processing, etc.<br>I’m interested in Artificial Intelligence, Deep Learning, Neural Networks, Machine Learning, Image Processing, NLP and Internet of Things!<br>Currently learning Java , Kotlin, Python, Flask, MySQL and MongoDB.
+<br>Hi, I’m Haleshot, a sophomore studying B Tech Artificial Intelligence. I like coding and projects relating to ML, AI, DL, CV, NLP, Image Processing, etc.<br>I’m interested in Artificial Intelligence, Deep Learning, Neural Networks, Machine Learning, Image Processing, NLP and Internet of Things!<br>Currently learning Java, Kotlin, Python, Flask, MySQL and MongoDB.
 
 
 
