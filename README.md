@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>Hi, I’m Haleshot, a third-year student studying B Tech Artificial Intelligence. I like coding and projects relating to ML, AI, DL, CV, NLP, Image Processing, etc.<br><br>Currently learning Java, Kotlin, Python, Flask, MySQL and MongoDB.
+<br>Hi, I’m Haleshot, a third-year student studying B Tech Artificial Intelligence. I like coding and projects relating to ML, AI, DL, CV, NLP, Image Processing, etc.<br><br>Currently exploring, Python, Flask, projects involving AI and platforms such as HuggingFace and Kaggle.
 
 
 
