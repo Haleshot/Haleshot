@@ -45,7 +45,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haleshot&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haleshot&theme=chartreuse-dark&hide_border=false" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haleshot&theme=dark&hide_border=false" alt="GitHub streak stats" />
   <br/>
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haleshot&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
