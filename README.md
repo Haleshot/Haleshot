@@ -80,7 +80,6 @@
 - 💞️ I’m looking to collaborate on building apps, game development.
 - 📫 How to reach me:
 
-
   https://twitter.com/haleshot
 
   LinkedIn - https://www.linkedin.com/in/srihari-thyagarajan/
