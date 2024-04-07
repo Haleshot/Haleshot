@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I’m Haleshot, a third-year student studying B Tech Artificial Intelligence. I like coding and projects relating to ML, AI, DL, CV, NLP, Image Processing, etc.<br><br>Currently exploring Python, Flask, projects involving AI and platforms such as HuggingFace and Kaggle.
+<br>Hi, I’m Haleshot, a third-year student studying B Tech Artificial Intelligence. I like projects relating to ML, AI, DL, CV, NLP, Image Processing, etc.<br><br>Currently exploring Python, Flask, projects involving AI and platforms such as HuggingFace and Kaggle.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srihari-thyagarajan) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/haleshot) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/haleshot) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Haleshot) 
