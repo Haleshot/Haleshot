@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I’m Haleshot, a final-year student studying B Tech Artificial Intelligence. I like projects relating to ML, AI, DL, CV, NLP, Image Processing, etc.<br><br>Currently exploring Python, FastAPI, projects involving AI and platforms such as HuggingFace and Kaggle.
+<br>Hi, I’m Haleshot, a final-year student studying B Tech Artificial Intelligence. I like projects relating to ML, AI, DL, CV, NLP, Image Processing, LLMs, etc.<br><br>Currently exploring Python, FastAPI, projects involving AI and platforms such as HuggingFace and Kaggle.
 
 
 # 🌐 Socials:
