@@ -54,7 +54,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Haleshot&limit=5&theme=radical&combine_all_yearly_contributions=true)
 --->
 
-
 <div align="center">
    <h1>Projects </h1>
   
