@@ -77,7 +77,7 @@
 
 <!--- Old format
 - 👋 Hi, I’m Haleshot!
-- 👀 I’m interested in Artificial Intelligence, Deep Learning, Neural Networks Machine Learning and Internet of Things!
+- 👀 I’m interested in AI, Deep Learning, Neural Networks and Machine Learning!
 - 🌱 I’m currently learning C++, Python and MYSQL.
 - 💞️ I’m looking to collaborate on building apps, game development.
 - 📫 How to reach me:
