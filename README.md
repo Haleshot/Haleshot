@@ -66,7 +66,7 @@
 [<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Haleshot&repo=Flight_Booking_System&theme=chartreuse-dark" width="46%" height="97%"/>](https://github.com/Haleshot/Flight_Booking_System)
 [<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Haleshot&repo=Object_Detection&theme=chartreuse-dark" width="46%" height="56%"/>](https://github.com/Haleshot/Object_Detection)
 [<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Haleshot&repo=AI-ML&theme=chartreuse-dark" width="46%" height="56%"/>](https://github.com/Haleshot/AI-ML)
-[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Haleshot&repo=Projects&theme=chartreuse-dark" width="46%" height="97%"/>](https://github.com/Haleshot/Projects)
+[<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Haleshot&repo=deepml-notebooks&theme=chartreuse-dark" width="46%" height="97%"/>](https://github.com/marimo-team/deepml-notebooks)
 [<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Haleshot&repo=Deep-ML&theme=chartreuse-dark" width="46%" height="97%"/>](https://github.com/Haleshot/Deep-ML)
 </div>
 
