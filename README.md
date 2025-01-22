@@ -1,7 +1,6 @@
 # 💫 About Me:
 <br>Hi, I’m Haleshot, a final-year student marjoring in B Tech Artificial Intelligence. I'm interested in projects, research work and framework/dev-tools relating to ML, AI, DL, CV, NLP, Image Processing, LLMs, Gen AI, Recommendation Systems, etc.<br><br>Currently exploring [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), projects involving AI/ML and platforms such as [deep-ml](https://www.deep-ml.com/), [marimo](https://marimo.io/?ref=haleshot), [HuggingFace](https://huggingface.co/) and [Kaggle](https://www.kaggle.com/).
 
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srihari-thyagarajan) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/haleshot) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/haleshot) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Haleshot) [![Static Badge](https://img.shields.io/badge/Portfolio%20-8A2BE2?logo=biolink)](https://haleshot.github.io/)
 
@@ -17,7 +16,6 @@
 
 ### Frontend:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
 
 ### Backend/Databases:
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/languages/python/)
