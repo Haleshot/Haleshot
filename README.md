@@ -4,6 +4,7 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srihari-thyagarajan) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/haleshot) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/haleshot) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Haleshot) [![Static Badge](https://img.shields.io/badge/Portfolio%20-8A2BE2?logo=biolink)](https://haleshot.github.io/)
 
+
 # 💻 Tech Stack:
 
 ### Programming Languages:
