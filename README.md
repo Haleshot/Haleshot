@@ -68,7 +68,6 @@
 
 </p>
 
-
 <!--- Old format
 - 👋 Hi, I’m Haleshot!
 - 👀 I’m interested in AI, Deep Learning, Neural Networks and Machine Learning!
