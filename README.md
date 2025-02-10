@@ -67,17 +67,3 @@
 [![](https://visitcount.itsvg.in/api?id=Haleshot&icon=0&color=12)](https://visitcount.itsvg.in)
 
 </p>
-
-<!--- Old format
-- 👋 Hi, I’m Haleshot!
-- 👀 I’m interested in AI, Deep Learning, Neural Networks and Machine Learning!
-- 🌱 I’m currently learning C++, Python and MYSQL.
-- 💞️ I’m looking to collaborate on building apps, game development.
-- 📫 How to reach me:
-
-  https://twitter.com/haleshot
-
-  LinkedIn - https://www.linkedin.com/in/srihari-thyagarajan/
-
-  Discord - Haleshot#9487
---->
