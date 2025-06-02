@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-<br>Hi, I’m Haleshot, an intern [@marimo.io](https://github.com/marimo-team/marimo); a final-year student marjoring in Artificial Intelligence (B. Tech). I'm interested in projects, frameworks & dev-tools relating to ML, DL, CV, NLP, Image Processing, LLMs, Gen AI, Recommendation Systems, etc.<br><br>Currently exploring [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), projects involving AI/ML and platforms such as [marimo](https://marimo.io/?ref=haleshot), [deep-ml](https://www.deep-ml.com/), [HuggingFace](https://huggingface.co/) and [Kaggle](https://www.kaggle.com/).
+<br>Hi, I’m Haleshot, an intern [@marimo.io](https://github.com/marimo-team/marimo).
+
+<!--
+A final-year student marjoring in Artificial Intelligence (B. Tech). I'm interested in projects, frameworks & dev-tools relating to ML, DL, CV, NLP, Image Processing, LLMs, Gen AI, Recommendation Systems, etc.<br><br>Currently exploring [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), projects involving AI/ML and platforms such as [marimo](https://marimo.io/?ref=haleshot), [deep-ml](https://www.deep-ml.com/), [HuggingFace](https://huggingface.co/) and [Kaggle](https://www.kaggle.com/).
 
 # 🌐 Socials:
 
@@ -9,9 +12,9 @@
 # 💻 Tech Stack:
 
 ### Programming Languages:
-<!---![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) -->
+<!---![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) &nbsp;&nbsp;
-<!---![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;&nbsp; -->
+<!---![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;&nbsp; 
 
 ### Frameworks and Libraries:
 
@@ -24,7 +27,7 @@
 ### Backend/Databases:
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/languages/python/)
-<!--![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) -->
+<!--![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 
 ### Editors/IDEs:
 
@@ -76,3 +79,5 @@
 [![](https://visitcount.itsvg.in/api?id=Haleshot&icon=0&color=12)](https://visitcount.itsvg.in)
 
 </p>
+
+--->
