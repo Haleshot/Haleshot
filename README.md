@@ -1,8 +1,8 @@
-# 💫 About Me:
-
 <br>Hi, I’m Haleshot, an intern [@marimo.io](https://github.com/marimo-team/marimo).
 
 <!--
+# 💫 About Me:
+
 A final-year student marjoring in Artificial Intelligence (B. Tech). I'm interested in projects, frameworks & dev-tools relating to ML, DL, CV, NLP, Image Processing, LLMs, Gen AI, Recommendation Systems, etc.<br><br>Currently exploring [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), projects involving AI/ML and platforms such as [marimo](https://marimo.io/?ref=haleshot), [deep-ml](https://www.deep-ml.com/), [HuggingFace](https://huggingface.co/) and [Kaggle](https://www.kaggle.com/).
 
 # 🌐 Socials:
