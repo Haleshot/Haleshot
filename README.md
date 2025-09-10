@@ -1,4 +1,4 @@
-<br>Hi, I’m Haleshot, an intern [@marimo.io](https://github.com/marimo-team/marimo).
+<br>Hi, I’m Haleshot, an intern [@ marimo.io](https://github.com/marimo-team/marimo).
 
 <!--
 # 💫 About Me:
